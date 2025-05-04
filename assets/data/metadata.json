@@ -1,0 +1,124 @@
+{
+    "Họ và tên": "Nguyễn Trung Kiên",
+    "Liên hệ": {
+      "Điện thoại": "+84 835 176 988",
+      "Email": "kiennguyen.kris.com",
+      "LinkedIn": "www.linkedin.com/in/trungkienitep"
+    },
+    "Mục tiêu sự nghiệp": {
+      "Ngắn hạn": "Áp dụng kiến thức CNTT để học hỏi và phát triển trong môi trường thực tế qua cơ hội thực tập, học việc, hoặc trợ giảng.",
+      "Dài hạn": "Trở thành chuyên gia CNTT, đóng góp cho ngành công nghiệp Việt Nam và tham gia giảng dạy, đào tạo."
+    },
+    "Kỹ năng cá nhân": {
+      "Kỹ năng mềm": [
+        "Giao tiếp và làm việc nhóm",
+        "Tinh thần trách nhiệm và chủ động",
+        "Giải quyết vấn đề và tư duy phản biện"
+      ],
+      "Kỹ năng chuyên môn": [
+        "Phát triển phần mềm, web, game: Unity 3D, HTML, CSS, JavaScript, Java, C/C++, C#, PostgreSQL, MySQL, MongoDB",
+        "Công cụ: Git, Github, Figma, Canva, ChatGPT, Gemini, Microsoft Office"
+      ],
+      "Ngôn ngữ giao tiếp": {
+        "Tiếng Anh": "B1",
+        "Tiếng Việt": "Bản địa",
+        "Tiếng Pháp": "A2"
+      }
+    },
+    "Học vấn": [
+      {
+        "Trường": "THPT Nam Tiền Hải, Thái Bình",
+        "Phân ban": "Khoa học tự nhiên (A00: Toán, Lý, Hóa - 27.0)",
+        "Thời gian": "07/2019 – 07/2022"
+      },
+      {
+        "Trường": "Trường CNTT&TT, ĐHBK Hà Nội",
+        "Chuyên ngành": "Công nghệ thông tin (Chương trình Việt - Pháp IT-EP)",
+        "CPA": "3.35/4.0",
+        "Thời gian": "09/2022 – Hiện tại"
+      }
+    ],
+    "Kinh nghiệm làm việc": [
+      {
+        "Nơi làm việc": "Trường CNTT&TT (SOICT)",
+        "Vị trí": "Trợ giảng",
+        "Thời gian": "09/2024 – Hiện tại",
+        "Nhiệm vụ": [
+          "Kiểm tra, đánh giá học viên",
+          "Hỗ trợ và giải đáp thắc mắc"
+        ]
+      },
+      {
+        "Nơi làm việc": "Edtech Centre, SOICT",
+        "Vị trí": "Nghiên cứu sinh / Lập trình viên Unity",
+        "Thời gian": "07/2024 – Hiện tại",
+        "Nhiệm vụ": [
+          "Nghiên cứu và phát triển dự án VR với Unity"
+        ]
+      },
+      {
+        "Nơi làm việc": "Club Francophone à l’IPH",
+        "Vị trí": "Thành viên chủ chốt",
+        "Thời gian": "10/2022 – Hiện tại",
+        "Nhiệm vụ": [
+          "Phụ trách truyền thông"
+        ]
+      },
+      {
+        "Nơi làm việc": "SoDiTEC Club, SOICT",
+        "Vị trí": "Thành viên",
+        "Thời gian": "08/2024 – Hiện tại",
+        "Nhiệm vụ": [
+          "Phát triển sản phẩm khóa học chất lượng cao",
+          "Phân tích yêu cầu và phân công nhóm"
+        ]
+      }
+    ],
+    "Dự án cá nhân": [
+      {
+        "Tên dự án": "Website Quản lý nhà hàng Vietgourmet",
+        "Mô tả": "Nền tảng thương mại điện tử hỗ trợ mua sắm và quản lý",
+        "Công nghệ": "PERN stack (PostgreSQL, ExpressJS, ReactJS, NodeJS)",
+        "Thành tựu": "Giao diện thân thiện, tối ưu hiệu suất",
+        "Github": "https://github.com/trungkienit25/Vietgourmet"
+      },
+      {
+        "Tên dự án": "Game FPS dành cho VR",
+        "Mô tả": "Trò chơi bắn súng sinh tồn bằng Unity 3D và VR",
+        "Công nghệ": "Unity 3D, C#",
+        "Thành tựu": "Cơ chế điều khiển mượt mà, mô hình chi tiết",
+        "Github": "https://github.com/trungkienit25/VR-Shooting"
+      },
+      {
+        "Tên dự án": "Website cho môn Database: Quản lý nhà hàng",
+        "Mô tả": "Hệ thống quản lý nhà hàng toàn diện",
+        "Công nghệ": "MySQL, ExpressJS, ReactJS, NodeJS",
+        "Thành tựu": "Hệ thống cơ sở dữ liệu đầy đủ",
+        "Github": "https://github.com/trungkienit25/database-lab"
+      },
+      {
+        "Tên dự án": "Hệ thống quản lý bệnh viện - OOP",
+        "Mô tả": "Phát triển hệ thống quản lý bệnh viện trong môn Lập trình Hướng đối tượng",
+        "Công nghệ": "MySQL, Java",
+        "Thành tựu": "Cơ sở dữ liệu và các chức năng quản lý bệnh viện",
+        "Github": "https://github.com/trungkienit25/OOP-Final-Project"
+      }
+    ],
+    "Giải thưởng & Chứng nhận": [
+      "Third Prize: VNU IS Hackathon 2024",
+      "Teaching Assistant: SOICT, HUST"
+    ],
+    "Hoạt động ngoại khóa": [
+      {
+        "Vai trò": "Chủ tịch Hội học sinh",
+        "Thời gian": "09/2019 – 07/2022",
+        "Nội dung": "Chủ tịch Hội học sinh trường THPT Nam Tiền Hải"
+      },
+      {
+        "Vai trò": "Sáng tạo nội dung, quản trị thương hiệu",
+        "Thời gian": "09/2019 – Hiện tại",
+        "Nội dung": "Sản xuất truyền thông cho fanpage trường, CLB, sự kiện"
+      }
+    ]
+  }
+  
